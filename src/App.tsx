@@ -2,7 +2,7 @@ function App() {
 
   return (
     <>
-      <h1 className="text-emerald-600 font-medium text-2xl">FindBook</h1>
+      <h1 className="text-emerald-600 text-3xl font-bold">FindBook</h1>
     </>
   )
 }
