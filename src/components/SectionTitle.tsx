@@ -5,7 +5,7 @@ type Props = {
 export function SectionTitle({title}: Props) {
     return (
         <div>
-            <h4 className="text-zinc-700 text-4xl font-medium border-b-4 border-b-emerald-500 w-fit mt-8">{title}</h4>
+            <h4 className="text-zinc-700 text-4xl font-medium border-b-4 border-b-emerald-500 w-fit mt-8 mb-14">{title}</h4>
         </div>
     )
 }

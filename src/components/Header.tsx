@@ -10,7 +10,7 @@ export function Header() {
             <Container>
                 <Title />
                 <div className="mt-28">
-                    <p className="text-7xl font-bold text-zinc-700">Encontre livros <br/> que são a sua cara!</p>
+                    <p className="text-7xl font-bold text-zinc-700 mb-14">Encontre livros <br/> que são a sua cara!</p>
                     <Button title='Pesquisar Livros' />
                 </div>
             </Container>
